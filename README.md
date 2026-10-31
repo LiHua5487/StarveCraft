@@ -4,6 +4,8 @@
 
 两款游戏同时在本机运行：Minecraft 负责玩家、背包、装备和方块，饥荒负责生物、资源、物品变化和世界时间；饥荒的原版纸片美术会直接显示在 MC 中，不依赖透明窗口叠加
 
+![展示图](展示图.png)
+
 ## 主要内容
 
 - 采摘、砍树、挖矿、战斗和放置建筑
@@ -26,7 +28,7 @@
 
 ## 安装
 
-从本仓库 Releases 下载同一版本的两端模组
+从本仓库 [Releases](https://github.com/LiHua5487/StarveCraft/releases) 下载同一版本的两端模组
 
 Minecraft 端：安装 Fabric 与 Fabric API，并将 `starvecraft-0.3.8.jar` 放进实际游玩版本的 `mods` 文件夹
 
